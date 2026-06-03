@@ -168,4 +168,8 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+dependency_overrides:
+
+font_awesome_flutter: ^10.8.0
+  page_transition: ^2.1.1
 
