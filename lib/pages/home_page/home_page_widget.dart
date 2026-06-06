@@ -15377,7 +15377,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                                                                               ),
                                                                                                             ),
                                                                                                             duration: Duration(milliseconds: 4000),
-                                                                                                            backgroundColor: FlutterFlowTheme.of(context).primaryText,
+                                                                                                            backgroundColor: FlutterFlowTheme.of(context).primaryBackground,
                                                                                                           ),
                                                                                                         );
                                                                                                       }
@@ -15737,7 +15737,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                                                                         ),
                                                                                                       ),
                                                                                                       duration: Duration(milliseconds: 4000),
-                                                                                                      backgroundColor: FlutterFlowTheme.of(context).primaryText,
+                                                                                                      backgroundColor: FlutterFlowTheme.of(context).primaryBackground,
                                                                                                     ),
                                                                                                   );
                                                                                                 }
@@ -15868,7 +15868,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                                                                       ),
                                                                                                     ),
                                                                                                     duration: Duration(milliseconds: 4000),
-                                                                                                    backgroundColor: FlutterFlowTheme.of(context).primaryText,
+                                                                                                    backgroundColor: FlutterFlowTheme.of(context).primaryBackground,
                                                                                                   ),
                                                                                                 );
                                                                                               }
@@ -15985,7 +15985,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                                                                       ),
                                                                                                     ),
                                                                                                     duration: Duration(milliseconds: 4000),
-                                                                                                    backgroundColor: FlutterFlowTheme.of(context).primaryText,
+                                                                                                    backgroundColor: FlutterFlowTheme.of(context).primaryBackground,
                                                                                                   ),
                                                                                                 );
                                                                                               }
@@ -16106,7 +16106,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                                                                       ),
                                                                                                     ),
                                                                                                     duration: Duration(milliseconds: 4000),
-                                                                                                    backgroundColor: FlutterFlowTheme.of(context).primaryText,
+                                                                                                    backgroundColor: FlutterFlowTheme.of(context).primaryBackground,
                                                                                                   ),
                                                                                                 );
                                                                                               }
@@ -16239,7 +16239,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                                                                       ),
                                                                                                     ),
                                                                                                     duration: Duration(milliseconds: 4000),
-                                                                                                    backgroundColor: FlutterFlowTheme.of(context).primaryText,
+                                                                                                    backgroundColor: FlutterFlowTheme.of(context).primaryBackground,
                                                                                                   ),
                                                                                                 );
                                                                                               }
@@ -16356,7 +16356,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                                                                       ),
                                                                                                     ),
                                                                                                     duration: Duration(milliseconds: 4000),
-                                                                                                    backgroundColor: FlutterFlowTheme.of(context).primaryText,
+                                                                                                    backgroundColor: FlutterFlowTheme.of(context).primaryBackground,
                                                                                                   ),
                                                                                                 );
                                                                                               }
@@ -16477,7 +16477,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                                                                       ),
                                                                                                     ),
                                                                                                     duration: Duration(milliseconds: 4000),
-                                                                                                    backgroundColor: FlutterFlowTheme.of(context).primaryText,
+                                                                                                    backgroundColor: FlutterFlowTheme.of(context).primaryBackground,
                                                                                                   ),
                                                                                                 );
                                                                                               }
